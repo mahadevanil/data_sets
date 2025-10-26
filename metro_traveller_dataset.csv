@@ -1,0 +1,151 @@
+Traveller_ID,Name,Origin_Station,Destination_Station,Trips_Per_Month,Total_Fare_Spent_INR,Card_Type,Last_Trip_Date
+METRO7500,Vijay Chandran,Elamkulam,Pathadipalam,53,2764.99,Senior Citizen,2025-11-28
+METRO7501,Reshma Sharma,Ernakulam South,Elamkulam,40,1620.75,Student,2025-11-02
+METRO7502,Neha Kumar,JLN Stadium,Changampuzha Park,62,2050.28,Regular,2025-11-11
+METRO7503,Amit Verghese,M.G. Road,Kadavanthra,40,1374.78,Student,2025-11-26
+METRO7504,Arjun Varma,CUSAT,Kaloor,26,952.33,Corporate,2025-11-19
+METRO7505,Divya Nandan,Kaloor,Muttom,70,2096.62,Regular,2025-11-27
+METRO7506,Kiran Chandran,Elamkulam,Vytila,84,4562.73,Senior Citizen,2025-11-05
+METRO7507,Sneha Varma,Elamkulam,Palarivattom,41,1931.22,Corporate,2025-11-13
+METRO7508,Divya Suresh,Kaloor,Kalamassery,93,3139.17,Corporate,2025-11-13
+METRO7509,Ravi Kumar,Ernakulam South,Pulinchodu,16,973.73,Regular,2025-11-27
+METRO7510,Meera Varma,Aluva,Lissie,68,3590.03,Senior Citizen,2025-11-01
+METRO7511,Meera Suresh,Lissie,Pulinchodu,20,614.72,Student,2025-11-12
+METRO7512,Lakshmi Mathew,JLN Stadium,Kaloor,32,1811.68,Senior Citizen,2025-11-03
+METRO7513,Gayathri Ali,JLN Stadium,Companypady,32,1540.89,Senior Citizen,2025-11-24
+METRO7514,Gayathri Singh,M.G. Road,Vytila,10,351.68,Senior Citizen,2025-11-04
+METRO7515,Neha Raj,Maharaja’s College,Palarivattom,56,2707.94,Senior Citizen,2025-11-21
+METRO7516,Joseph Das,Kalamassery,Kaloor,15,768.32,Regular,2025-11-09
+METRO7517,Lakshmi Mathew,Elamkulam,Ernakulam South,29,1159.26,Regular,2025-11-05
+METRO7518,Vijay Kumar,Muttom,Lissie,85,2301.79,Corporate,2025-11-10
+METRO7519,Amit Suresh,Vytila,Lissie,69,1966.76,Regular,2025-11-30
+METRO7520,Reshma Thomas,Maharaja’s College,Kaloor,30,989.74,Student,2025-11-16
+METRO7521,Joseph Chandran,Edappally,Ernakulam South,40,2102.54,Senior Citizen,2025-11-22
+METRO7522,Karthik Gupta,Vytila,CUSAT,38,1134.27,Senior Citizen,2025-11-10
+METRO7523,Amit Thomas,Ambattukavu,Changampuzha Park,50,1821.86,Student,2025-11-19
+METRO7524,Reshma Nair,CUSAT,Pathadipalam,25,1205.67,Regular,2025-11-19
+METRO7525,Rahul Varma,Pathadipalam,Maharaja’s College,59,2648.52,Senior Citizen,2025-11-27
+METRO7526,Lakshmi Pillai,Kalamassery,Maharaja’s College,52,2977.9,Corporate,2025-11-18
+METRO7527,Gayathri Raj,JLN Stadium,Aluva,92,2721.89,Regular,2025-11-10
+METRO7528,Rahul Das,Kadavanthra,JLN Stadium,35,1008.86,Corporate,2025-11-05
+METRO7529,Devika Raj,M.G. Road,Aluva,55,1906.79,Student,2025-11-27
+METRO7530,Kiran Ali,JLN Stadium,Pathadipalam,81,4685.7,Senior Citizen,2025-11-06
+METRO7531,Gayathri Nandan,Changampuzha Park,Edappally,26,1476.54,Corporate,2025-11-12
+METRO7532,Kiran Verghese,M.G. Road,Companypady,88,4669.64,Senior Citizen,2025-11-14
+METRO7533,Farhan Kumar,Lissie,Pulinchodu,59,2083.34,Regular,2025-11-02
+METRO7534,Gayathri Prasad,Kaloor,Companypady,73,4168.23,Student,2025-11-18
+METRO7535,Divya Menon,Pathadipalam,Kaloor,52,2792.55,Corporate,2025-11-26
+METRO7536,Joseph Raj,Ernakulam South,Palarivattom,21,1029.98,Senior Citizen,2025-11-12
+METRO7537,Priya Verghese,Lissie,Pulinchodu,61,2839.5,Corporate,2025-11-02
+METRO7538,Vijay Krishnan,Kadavanthra,CUSAT,86,4235.51,Senior Citizen,2025-11-07
+METRO7539,Gayathri Ramesh,Pathadipalam,JLN Stadium,43,1887.68,Regular,2025-11-19
+METRO7540,Devika Singh,Kaloor,Aluva,24,1020.96,Corporate,2025-11-25
+METRO7541,Joseph Das,CUSAT,Muttom,58,3138.34,Student,2025-11-04
+METRO7542,Kiran Thomas,Ambattukavu,CUSAT,48,1364.32,Corporate,2025-11-20
+METRO7543,Sneha Nandan,Kadavanthra,Vytila,77,2242.28,Corporate,2025-11-01
+METRO7544,Ravi Gupta,CUSAT,Maharaja’s College,44,1529.67,Corporate,2025-11-08
+METRO7545,Karthik Menon,CUSAT,Pulinchodu,37,1067.61,Student,2025-11-01
+METRO7546,Reshma Das,Companypady,Pulinchodu,31,990.77,Regular,2025-11-13
+METRO7547,Ravi Nandan,Kaloor,Palarivattom,31,1111.36,Senior Citizen,2025-11-26
+METRO7548,Akhil Varma,Kalamassery,Elamkulam,11,291.33,Regular,2025-11-25
+METRO7549,Amit Ali,JLN Stadium,CUSAT,82,3322.57,Regular,2025-11-29
+METRO7550,Divya Krishnan,Vytila,Lissie,10,358.04,Student,2025-11-18
+METRO7551,Karthik Suresh,Elamkulam,Aluva,90,3510.35,Student,2025-11-27
+METRO7552,Priya Pillai,Edappally,CUSAT,89,4689.95,Student,2025-11-10
+METRO7553,Gayathri Kumar,Ambattukavu,Ernakulam South,85,3596.21,Student,2025-11-09
+METRO7554,Kiran Mathew,Companypady,CUSAT,42,1832.68,Student,2025-11-19
+METRO7555,Neha Chandran,Kaloor,M.G. Road,91,3307.93,Senior Citizen,2025-11-27
+METRO7556,Kiran Raj,Changampuzha Park,Companypady,37,1783.14,Corporate,2025-11-17
+METRO7557,Anjali Nair,Vytila,Elamkulam,41,2313.48,Corporate,2025-11-28
+METRO7558,Vijay Thomas,M.G. Road,Kaloor,42,2416.64,Regular,2025-11-14
+METRO7559,Arjun Mathew,Changampuzha Park,Aluva,25,640.75,Student,2025-11-01
+METRO7560,Farhan Nandan,Ambattukavu,Ernakulam South,85,3480.26,Student,2025-11-04
+METRO7561,Anjali Krishnan,Ambattukavu,Edappally,36,2037.86,Senior Citizen,2025-11-06
+METRO7562,Joseph Singh,M.G. Road,Edappally,59,3319.66,Corporate,2025-11-09
+METRO7563,Meera Raj,Aluva,M.G. Road,67,3973.2,Senior Citizen,2025-11-06
+METRO7564,Lakshmi Pillai,Lissie,Ambattukavu,86,5185.78,Student,2025-11-27
+METRO7565,Meera Chandran,Kadavanthra,Changampuzha Park,82,2971.01,Corporate,2025-11-22
+METRO7566,Karthik Pillai,Muttom,JLN Stadium,84,2129.99,Corporate,2025-11-16
+METRO7567,Priya Ali,Maharaja’s College,Muttom,50,1351.52,Senior Citizen,2025-11-12
+METRO7568,Divya Krishnan,Kalamassery,Maharaja’s College,19,678.44,Senior Citizen,2025-11-23
+METRO7569,Divya Mathew,Changampuzha Park,Maharaja’s College,10,284.34,Student,2025-11-15
+METRO7570,Rohan Krishnan,Ambattukavu,Kadavanthra,64,2039.08,Student,2025-11-24
+METRO7571,Meera Gupta,Changampuzha Park,Pathadipalam,20,891.13,Corporate,2025-11-18
+METRO7572,Akhil Verghese,CUSAT,Maharaja’s College,15,637.03,Student,2025-11-30
+METRO7573,Sudeep Nair,Companypady,JLN Stadium,34,1489.8,Student,2025-11-10
+METRO7574,Kiran Das,Edappally,Ambattukavu,61,3074.35,Student,2025-11-06
+METRO7575,Devika Singh,Palarivattom,CUSAT,53,1447.78,Regular,2025-11-26
+METRO7576,Gayathri Thomas,M.G. Road,Pathadipalam,64,3195.83,Regular,2025-11-19
+METRO7577,Devika Sunil,M.G. Road,Pathadipalam,17,718.87,Senior Citizen,2025-11-13
+METRO7578,Joseph Menon,Companypady,CUSAT,44,2400.99,Regular,2025-11-10
+METRO7579,Neha Sunil,Ernakulam South,Ambattukavu,68,3095.79,Student,2025-11-11
+METRO7580,Ravi Mathew,Palarivattom,Elamkulam,64,3194.95,Student,2025-11-11
+METRO7581,Anjali Kumar,Ambattukavu,CUSAT,10,296.32,Corporate,2025-11-20
+METRO7582,Priya Nandan,M.G. Road,Pulinchodu,78,2998.14,Corporate,2025-11-12
+METRO7583,Divya Prasad,CUSAT,Ernakulam South,75,3109.89,Corporate,2025-11-09
+METRO7584,Vijay Verghese,Aluva,Changampuzha Park,21,1173.72,Corporate,2025-11-29
+METRO7585,Meera Sunil,CUSAT,Kaloor,73,2068.77,Regular,2025-11-05
+METRO7586,Sneha Mathew,Kadavanthra,JLN Stadium,44,2283.36,Senior Citizen,2025-11-12
+METRO7587,Sudeep Verghese,Changampuzha Park,Lissie,77,3792.18,Regular,2025-11-15
+METRO7588,Arjun Nandan,Aluva,Lissie,93,5133.19,Senior Citizen,2025-11-22
+METRO7589,Priya Raj,Kadavanthra,JLN Stadium,11,530.69,Regular,2025-11-16
+METRO7590,Ravi Chandran,Ernakulam South,Edappally,65,3647.83,Corporate,2025-11-20
+METRO7591,Divya Sharma,Maharaja’s College,M.G. Road,67,3424.59,Corporate,2025-11-26
+METRO7592,Vijay Kumar,Muttom,Elamkulam,19,784.24,Student,2025-11-25
+METRO7593,Sudeep Pillai,CUSAT,M.G. Road,88,4094.48,Corporate,2025-11-04
+METRO7594,Gayathri Varma,Ambattukavu,Vytila,66,2255.87,Corporate,2025-11-02
+METRO7595,Akhil Krishnan,Kalamassery,Kaloor,86,3695.85,Corporate,2WELCOME_TO_OASIS_2024-11-30
+METRO7596,Neha Verghese,Companypady,Lissie,80,2761.89,Student,2025-11-28
+METRO7597,Vijay Sunil,Ambattukavu,Ernakulam South,13,787.15,Corporate,2025-11-22
+METRO7598,Reshma Singh,Kadavanthra,Muttom,30,1561.48,Corporate,2025-11-17
+METRO7599,Priya Pillai,Palarivattom,Elamkulam,55,3186.6,Student,2025-11-24
+METRO7600,Gayathri Suresh,Kalamassery,M.G. Road,54,2084.19,Student,2025-11-11
+METRO7601,Sudeep Nair,Companypady,Pathadipalam,69,3227.66,Student,2025-11-20
+METRO7602,Meera Gupta,Muttom,Pulinchodu,32,1365.09,Senior Citizen,2025-11-04
+METRO7603,Rohan Kumar,CUSAT,Maharaja’s College,79,2200.12,Corporate,2025-11-24
+METRO7604,Akhil Gupta,M.G. Road,Pulinchodu,69,3585.26,Student,2025-11-23
+METRO7605,Joseph Suresh,Kalamassery,Lissie,42,1988.18,Senior Citizen,2025-11-29
+METRO7606,Reshma Verghese,Changampuzha Park,Aluva,87,3966.99,Corporate,2025-11-29
+METRO7607,Reshma Sunil,Companypady,Changampuzha Park,51,1876.56,Corporate,2025-11-13
+METRO7608,Karthik Mathew,Maharaja’s College,Vytila,75,2833.81,Regular,2025-11-14
+METRO7609,Amit Prasad,Kalamassery,Elamkulam,61,2692.21,Regular,2025-11-25
+METRO7610,Devika Verghese,Pulinchodu,Ernakulam South,51,1754.91,Corporate,2025-11-07
+METRO7611,Sneha Gupta,Kadavanthra,Aluva,92,4439.88,Senior Citizen,2025-11-11
+METRO7612,Kiran Nair,JLN Stadium,Palarivattom,10,565.84,Student,2025-11-16
+METRO7613,Arjun Singh,Changampuzha Park,CUSAT,48,1547.12,Corporate,2025-11-10
+METRO7614,Priya Mohan,Kadavanthra,Ambattukavu,89,3777.4,Corporate,2025-11-17
+METRO7615,Arjun Prasad,Maharaja’s College,Kaloor,81,3482.14,Senior Citizen,2025-11-30
+METRO7616,Meera Pillai,Muttom,Changampuzha Park,18,433.9,Student,2025-11-12
+METRO7617,Sneha Das,Aluva,Kadavanthra,67,3771.45,Corporate,2025-11-27
+METRO7618,Anjali Pillai,Lissie,Kalamassery,22,775.52,Student,2025-11-20
+METRO7619,Devika Raj,Companypady,Kalamassery,80,3673.93,Regular,2025-11-05
+METRO7620,Akhil Kumar,Muttom,Pathadipalam,40,1702.93,Corporate,2025-11-29
+METRO7621,Meera Sharma,M.G. Road,Companypady,14,381.27,Corporate,2025-11-01
+METRO7622,Sudeep Chandran,Palarivattom,Maharaja’s College,94,5404.53,Senior Citizen,2025-11-25
+METRO7623,Gayathri Chandran,Companypady,Pathadipalam,51,1551.97,Senior Citizen,2025-11-11
+METRO7624,Farhan Sunil,Edappally,Aluva,73,3298.12,Student,2025-11-25
+METRO7625,Sudeep Gupta,M.G. Road,Aluva,87,2984.93,Senior Citizen,2025-11-12
+METRO7626,Neha Sharma,Kalamassery,Kadavanthra,53,2977.13,Student,2025-11-07
+METRO7627,Sudeep Sunil,Ernakulam South,Pathadipalam,71,2329.61,Student,2025-11-25
+METRO7628,Lakshmi Mohan,Companypady,Kadavanthra,59,1620.16,Corporate,2025-11-18
+METRO7629,Sudeep Suresh,Kalamassery,Maharaja’s College,62,3150.61,Corporate,2025-11-24
+METRO7630,Kiran Sharma,Companypady,Kalamassery,35,1055.09,Corporate,2025-11-17
+METRO7631,Kiran Prasad,Pulinchodu,Palarivattom,35,1323.93,Regular,2025-11-25
+METRO7632,Rohan Mathew,Pathadipalam,CUSAT,43,1460.82,Senior Citizen,2025-11-06
+METRO7633,Farhan Ramesh,Kaloor,JLN Stadium,92,2455.73,Senior Citizen,2025-11-24
+METRO7634,Anjali Ramesh,Ambattukavu,CUSAT,67,2775.14,Corporate,2025-11-06
+METRO7635,Neha Gupta,Pulinchodu,Pathadipalam,39,1608.21,Student,2025-11-14
+METRO7636,Amit Ramesh,Pulinchodu,Ernakulam South,56,1552.16,Regular,2025-11-25
+METRO7637,Karthik Krishnan,Companypady,Pathadipalam,65,2332.49,Regular,2025-11-24
+METRO7638,Neha Chandran,Maharaja’s College,Elamkulam,48,2466.0,Senior Citizen,2025-11-06
+METRO7639,Ravi Nandan,Kaloor,Ernakulam South,49,2704.5,Senior Citizen,2025-11-05
+METRO7640,Devika Varma,Kadavanthra,Kaloor,56,1636.4,Corporate,2025-11-04
+METRO7641,Priya Menon,Companypady,Ambattukavu,73,2116.25,Regular,2025-11-16
+METRO7642,Reshma Singh,Maharaja’s College,CUSAT,13,437.72,Senior Citizen,2025-11-27
+METRO7643,Akhil Mohan,Changampuzha Park,Edappally,56,2974.88,Corporate,2025-1g-28
+METRO7644,Vijay Varma,Pathadipalam,Changampuzha Park,20,776.82,Senior Citizen,2025-11-06
+METRO7645,Anjali Thomas,Edappally,Pulinchodu,68,2108.0,Student,2025-11-16
+METRO7646,Reshma Chandran,Kalamassery,CUSAT,83,3087.22,Senior Citizen,2025-11-09
+METRO7647,Rahul Prasad,CUSAT,Edappally,85,2898.08,Regular,2025-11-01
+METRO7648,Sudeep Nandan,Ambattukavu,Aluva,18,785.89,Student,2025-11-22
+METRO7649,Gayathri Ramesh,Lissie,M.G. Road,33,957.21,Regular,2025-11-15
